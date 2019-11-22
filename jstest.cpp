@@ -17,6 +17,8 @@
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
 
+#include "gen/joy.capnp.h"
+
 extern "C" {
     int cmain (int argc, char **argv);
 }
